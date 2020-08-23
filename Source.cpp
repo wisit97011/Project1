@@ -14,6 +14,6 @@ int main() {
         }
         x++;
     }
-    printf("\nPress Any Key To Continue . . .");
+    printf("\nPress Any Key To Continue . . . .");
     return 0;
 }
